@@ -1,0 +1,7 @@
+{
+	"name": "esm-test",
+	"type": "module",
+	"dependencies": {
+		"cjs-test": "github:nnmrts/cjs-test"
+	}
+}
